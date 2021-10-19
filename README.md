@@ -1,24 +1,15 @@
 # acceding-rest-api
 
-## Project setup
-```
-yarn install
-```
+## Screenshots
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+![imagen principal](./img/img1.png)
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Busqueda por symbol
 
-### Lints and fixes files
-```
-yarn lint
-```
+![imagen principal](./img/img1.png)
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Busqueda por name(columna coin)
+
+![imagen principal](./img/img1.png)
+
+[App hecha siguiendo este tutorial](https://www.youtube.com/watch?v=4QcNMuQTkqs)
